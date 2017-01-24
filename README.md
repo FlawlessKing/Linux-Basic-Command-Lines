@@ -3,7 +3,7 @@ Udacity: Linux Basic Command Lines
 
 This is an udacity course which taught me about linux commands
 
-The course starts with basic outlines on Setting up a Virtual VM MAchine. 
+The course starts with basic outlines on Setting up a Virtual VM Machine. 
 The course uses 'Vagrant'
 
 Software Requirements
